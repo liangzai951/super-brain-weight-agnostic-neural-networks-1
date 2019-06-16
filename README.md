@@ -1,4 +1,5 @@
-I will merge WANN & AEAT, all are submitted. <br>
+I will merge WANN & AEAT, all are submitted. 
+
 
 
 Weight Agnostic Neural Networks  (in Python)
