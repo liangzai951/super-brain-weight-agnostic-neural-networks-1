@@ -10,7 +10,8 @@ Weight Agnostic Neural Networks  (in Python)
  
     https://github.com/weightagnostic/weightagnostic.github.io  (official, code, in javascript)
     
-    KEY: Just proper neural network structure without trainned weights/bias can get a certain degree fitting to the target function, .
+    KEY: Just proper neural network structure without trainned weights/bias
+         can get a certain degree fitting to the target function, .
     
 
 Neuro Evolution of Augmenting Topologies  (in Python)
