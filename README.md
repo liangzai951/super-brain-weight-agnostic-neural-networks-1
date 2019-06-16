@@ -1,16 +1,21 @@
 I will merge WANN & AEAT, all are submitted. 
 
-
+---------
 
 Weight Agnostic Neural Networks  (in Python)
 
-    https://arxiv.org/pdf/1906.04358.pdf
+    https://arxiv.org/pdf/1906.04358.pdf  (offical, paper)
     
     https://weightagnostic.github.io/    
  
-    https://github.com/weightagnostic/weightagnostic.github.io  (official, in javascript)
-
+    https://github.com/weightagnostic/weightagnostic.github.io  (official, code, in javascript)
+    
+    KEY: just proper neural network structure without trainned weights/bisa can fit target function, a certain degree.
+    
 
 Neuro Evolution of Augmenting Topologies  (in Python)
+    https://www.cs.ucf.edu/~kstanley/neat.html  (official, paper)
 
     https://github.com/FaydSpeare/NEAT
+
+    
