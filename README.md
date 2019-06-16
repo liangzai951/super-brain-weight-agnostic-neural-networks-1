@@ -1,3 +1,6 @@
+I will merge WANN & AEAT, all are submitted.
+
+
 Weight Agnostic Neural Networks  (in Python)
 
     https://arxiv.org/pdf/1906.04358.pdf
