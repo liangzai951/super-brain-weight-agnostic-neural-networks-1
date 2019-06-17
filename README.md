@@ -15,6 +15,7 @@ Weight Agnostic Neural Networks  (in Python)
     
 
 Neuro Evolution of Augmenting Topologies  (in Python)
+
     https://www.cs.ucf.edu/~kstanley/neat.html  (official, paper)
 
     https://github.com/FaydSpeare/NEAT
